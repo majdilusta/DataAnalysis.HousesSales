@@ -1,0 +1,2 @@
+In this project:
+We study the correlation between different elements "features" the impact the houses sale price.
